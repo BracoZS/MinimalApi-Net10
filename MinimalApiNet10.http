@@ -1,0 +1,6 @@
+@MinimalApiNet10_HostAddress = http://localhost:5062
+
+GET {{MinimalApiNet10_HostAddress}}/
+Accept: application/json
+
+###
